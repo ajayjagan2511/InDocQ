@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/b0ddf421-d6d3-4a79-8948-f276736da949)
+
 # InDocQ: Intelligent Document Q&A System 🦜🔗
 
 ## Overview
