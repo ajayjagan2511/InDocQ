@@ -63,7 +63,7 @@ streamlit run main.py
    - Upload your PDF document through the web interface
      
      <p align="center">
-  <img src="Screenshots/WhatsApp Image 2024-12-28 at 23.30.42.jpeg" alt="InDocQ Demo" width="1000"/>
+  <img src="Screenshots/Image1.jpeg" alt="InDocQ Demo" width="1000"/>
    </p>  
 
      
@@ -75,7 +75,7 @@ streamlit run main.py
    - Click "Create Knowledge Base" to process the document
      
      <p align="center">
-  <img src="Screenshots/WhatsApp Image 2024-12-28 at 23.33.31.jpeg" alt="InDocQ Demo" width="1000"/>
+  <img src="Screenshots/Image2.jpeg" alt="InDocQ Demo" width="1000"/>
    </p>  
 
    
@@ -88,21 +88,21 @@ streamlit run main.py
    - Enter your questions in the text input field
      
     <p align="center">
-  <img src="Screenshots/WhatsApp Image 2024-12-28 at 23.33.55.jpeg" alt="InDocQ Demo" width="1000"/>
+  <img src="Screenshots/Image3.jpeg" alt="InDocQ Demo" width="1000"/>
    </p>  
 
    
    - View answers generated based on document context
      
    <p align="center">
-  <img src="Screenshots/WhatsApp Image 2024-12-28 at 23.34.02.jpeg" alt="InDocQ Demo" width="1000"/>
+  <img src="Screenshots/Image4.jpeg" alt="InDocQ Demo" width="1000"/>
    </p>  
 
    
    - Access history of previous Q&A interactions
      
    <p align="center">
-  <img src="Screenshots/WhatsApp Image 2024-12-28 at 23.34.14.jpeg" alt="InDocQ Demo" width="1000"/>
+  <img src="Screenshots/Image6.jpeg" alt="InDocQ Demo" width="1000"/>
    </p>
 
 
